@@ -7,12 +7,12 @@
     "/login/": {
       "X-Author": "itmo307700",
       "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/html; charset=UTF-8"
+      "Content-Type": "text/html;charset=UTF-8"
     },
     "/sample/": {
       "X-Author": "itmo307700",
       "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/html; charset=UTF-8"
+      "Content-Type": "text/html;charset=UTF-8"
     }
   }
 }
